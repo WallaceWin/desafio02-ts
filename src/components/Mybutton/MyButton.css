@@ -1,0 +1,13 @@
+.botao {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.botueira {
+    background-color: plum;
+    width: 80%;
+    height: 50px;
+    border-radius: 20px;
+}
